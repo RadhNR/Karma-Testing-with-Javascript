@@ -1,8 +1,8 @@
 
 
 describe('When i call  sayHell()', function(){
-	it('Should return "Hello HCL"', function() {
-		expect(sayHello()).toBe('Hello HCL');
+	it('Should return "Hello"', function() {
+		expect(sayHello()).toBe('Hello');
 	})
 });
 

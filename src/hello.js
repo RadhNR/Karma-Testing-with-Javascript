@@ -1,5 +1,5 @@
 function sayHello() {
-	return 'Hello HCL';
+	return 'Hello';
 }
 
 function add(a, b) {
